@@ -1,0 +1,3 @@
+1. How to reset the password
+-> https://howtoraspberrypi.com/recover-password-raspberry-pi/
+
